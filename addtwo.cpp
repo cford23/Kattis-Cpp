@@ -1,4 +1,3 @@
-// URL - https://open.kattis.com/problems/addtwonumbers
 #include <iostream>
 using namespace std;
 
